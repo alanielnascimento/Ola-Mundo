@@ -1,2 +1,2 @@
-# Ola Mundo
- Primeiro programa em JAVA
+# Olá, Mundo!
+ Primeiro programa em JAVA.
